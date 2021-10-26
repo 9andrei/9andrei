@@ -34,7 +34,7 @@
 <h3 align="center">&#x1f4c8; GitHub Stats</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=9andrei&theme=yeblu&show_icons=true" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9andrei&layout=compact&theme=yeblu" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9andrei&layout=compact&theme=yeblu" width="450" />
 </p>
 
 <!--
